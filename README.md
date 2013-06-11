@@ -7,4 +7,5 @@ This is a smal web page (zurb-foundation.html) build with foundation (v 4) for a
 
 Foundation: http://foundation.zurb.com
 
+Page visible here: http://jacopo.antanix.net/learning/Foundation-test/zurb-foundation.html
 
